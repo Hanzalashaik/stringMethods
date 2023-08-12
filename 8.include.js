@@ -2,5 +2,5 @@ const string="The includes() method checks if one string can be found inside ano
 
 console.log(string.includes("method"));//true
 
-console.log(string.includes("inlcude"));//false
+console.log(string.includes("founded"));//false
 
