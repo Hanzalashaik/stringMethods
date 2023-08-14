@@ -1,3 +1,5 @@
+//it take regular expersion and retrun index of first apperence
+
 const str="The search() method searches for a match between a given string and a regular expression."
 
 const exp=/[A-z]/
